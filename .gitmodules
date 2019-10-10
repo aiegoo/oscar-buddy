@@ -1,0 +1,6 @@
+[submodule "oscar-buddy.wiki"]
+	path = oscar-buddy.wiki
+	url = https://github.com/aiegoo/oscar-buddy.wiki.git
+[submodule "resume.wiki"]
+	path = resume.wiki
+	url = https://github.com/aiegoo/resume.wiki.git
